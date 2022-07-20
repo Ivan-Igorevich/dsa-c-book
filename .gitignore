@@ -1,0 +1,7 @@
+*.*~
+*.*#
+
+/build/*
+!/build/*.pdf
+
+.DS_Store*
